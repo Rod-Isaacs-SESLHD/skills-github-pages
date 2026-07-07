@@ -71,4 +71,4 @@ Analysis of website traffic and user behavior patterns.
 
 > "Turning data into decisions."
 
-© 2026 Jane Doe
+© 2026 Rod Isaacs
